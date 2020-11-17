@@ -10,5 +10,5 @@ Visit http://localhost:5000`);
 });
 
 app.get('/', (req, res) => {
-  res.send('This is a sample express app');
+  res.send('This is a sample express app for now-node-api');
 });
